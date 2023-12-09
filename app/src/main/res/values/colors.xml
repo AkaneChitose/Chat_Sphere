@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="error">#B00020</color>
+
+    <color name="colorPrimary">#3498db</color>
+    <color name="colorPrimaryDark">#2980b9</color>
+    <color name="colorAccent">#2ecc71</color>
+
+    <color name="colorBackground">#ecf0f1</color>
+    <color name="colorText">#2c3e50</color>
+
+    <color name="colorButtonNormal">#3498db</color>
+    <color name="colorButtonPressed">#2980b9</color>
+
+    <color name="colorChatIncoming">#dcdcdc</color>
+    <color name="colorChatOutgoing">#2ecc71</color>
+
+    <color name="ic_launcher_background">#ffffff</color>
+
+
+    <color name="colorDivider">#bdc3c7</color>
+</resources>
