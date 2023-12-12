@@ -2,7 +2,8 @@
 <resources>
     <color name="white">#ffffff</color>
     <color name="black">#000000</color>
-    <color name="error">#B00020</color>
+    <color name="red">#B00020</color>
+    <color name="brown">#ae9d5b</color>
 
     <color name="colorPrimary">#3498db</color>
     <color name="colorPrimaryDark">#2980b9</color>
